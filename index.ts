@@ -17,4 +17,4 @@ export { StandardDeviation } from './src/standard-deviation';
 export { MACD } from './src/macd';
 export { HeikenAshi } from './src/heiken-ashi';
 export { Pivot } from './src/pivot';
-export { LWMA } from './src/LWMA';
+export { LWMA } from './src/lwma';
